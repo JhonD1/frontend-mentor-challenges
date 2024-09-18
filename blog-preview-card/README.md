@@ -5,9 +5,10 @@ This is a solution to the [Blog Page Preview Card challenge on Frontend Mentor](
 ## Table of contents
 
 - [Overview](#overview)
-  - [Challenge] (#challenge)
+  - [Challenge](#challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
+  - [Resources](#resources)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
@@ -22,8 +23,12 @@ This is a solution to the [Blog Page Preview Card challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/blog-preview-card-using-html-and-css-k_HjuJofHg)
+- Live Site URL: [Add live site URL here](https://frontend-mentor-challenges-3bne.vercel.app/)
+
+### Resources
+
+- [Box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
 
 ## My process
 - Added main styling in the root of the style.css file
